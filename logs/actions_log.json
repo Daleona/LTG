@@ -1,0 +1,1438 @@
+[
+  {
+    "timestamp": "2025-10-30 00:37:50",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003749_880106_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:50",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\Empty.png",
+    "position": [
+      163,
+      944
+    ],
+    "confidence": 1.0,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003749_880106_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:51",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003750_636593_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:51",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\Empty.png",
+    "position": [
+      163,
+      944
+    ],
+    "confidence": 1.0,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003750_636593_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:52",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003751_394367_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:52",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003752_271774_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:53",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003753_156949_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:54",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1739141267692.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:37:54",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003754_030255_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:55",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003755_215381_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:56",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1745241060170.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:37:56",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003756_102359_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:57",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003756_971822_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:58",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003757_819849_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:37:58",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1738862123798.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:37:59",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003758_716218_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:00",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003759_582638_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:01",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003800_449665_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:01",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1745241205672.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:02",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003801_832047_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:02",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\Empty.png",
+    "position": [
+      163,
+      944
+    ],
+    "confidence": 1.0,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003801_832047_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:03",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003802_550770_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:03",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\Empty.png",
+    "position": [
+      163,
+      944
+    ],
+    "confidence": 1.0,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003802_550770_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:03",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003803_228663_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:04",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003804_103582_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:05",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003804_988570_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:05",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1739141267692.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:06",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003805_883171_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:07",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003806_805785_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:08",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003807_686916_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:08",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1745241060170.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:09",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003808_521525_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:10",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003809_408103_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:10",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003810_289883_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:11",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1738862123798.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:11",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003811_171207_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:12",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003812_045903_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:13",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003812_880552_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:13",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1745241205672.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:14",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003814_289476_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:15",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\Empty.png",
+    "position": [
+      163,
+      944
+    ],
+    "confidence": 1.0,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003814_289476_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:15",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003815_014884_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:15",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\Empty.png",
+    "position": [
+      163,
+      944
+    ],
+    "confidence": 1.0,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003815_014884_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:16",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003815_734544_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:17",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003816_669165_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:18",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003817_557932_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:18",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1739141267692.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:19",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003818_535949_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:20",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003819_507912_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:21",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003820_386406_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:21",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1745241060170.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:21",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003821_264980_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:22",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003822_207835_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:23",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003823_095066_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:23",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1738862123798.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:24",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003823_978420_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:25",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003824_807329_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:26",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003825_697133_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:26",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1745241205672.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:27",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003827_121576_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:27",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\Empty.png",
+    "position": [
+      163,
+      944
+    ],
+    "confidence": 1.0,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003827_121576_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:28",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003827_805342_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:28",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\Empty.png",
+    "position": [
+      163,
+      944
+    ],
+    "confidence": 1.0,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003827_805342_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:29",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003828_525090_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:30",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003829_419448_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:30",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1739141267692.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:31",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003830_544332_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:32",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003831_406727_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:32",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003832_297344_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:33",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1745241060170.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:33",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003833_187534_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:34",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003834_077619_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:35",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003834_977502_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:35",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1738862123798.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:36",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003835_860032_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:37",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003836_779069_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:38",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003837_663636_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:38",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1745241205672.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:39",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003839_061247_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:39",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\Empty.png",
+    "position": [
+      163,
+      944
+    ],
+    "confidence": 1.0,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003839_061247_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:40",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003839_787727_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:40",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\Empty.png",
+    "position": [
+      163,
+      944
+    ],
+    "confidence": 1.0,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003839_787727_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:41",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003840_532438_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:42",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003841_416472_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:42",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003842_338098_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:43",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1739141267692.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:43",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003843_220530_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:44",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003844_100954_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:45",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003844_980091_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:45",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1745241060170.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:46",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003845_876166_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:47",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003846_800085_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:48",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003847_679179_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:48",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1738862123798.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:49",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003848_557695_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:50",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003849_474152_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:51",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003850_354369_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:51",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\1745241205672.png",
+    "position": null,
+    "confidence": null,
+    "extra": null
+  },
+  {
+    "timestamp": "2025-10-30 00:38:58",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\exists_20251030_003857_779144_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:58",
+    "action": "exists",
+    "template": "C:\\Airtest_alpha2\\gardening.air\\GiesKanne.png",
+    "position": [
+      300,
+      953
+    ],
+    "confidence": 0.5347068309783936,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\exists_20251030_003857_779144_crop.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:59",
+    "action": "screenshot",
+    "template": null,
+    "position": null,
+    "confidence": null,
+    "extra": {
+      "file": "C:\\Airtest_alpha2\\logs\\tap_20251030_003858_530944_crop.png",
+      "viewport": [
+        0,
+        0,
+        720,
+        1280
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30 00:38:59",
+    "action": "tap",
+    "template": null,
+    "position": [
+      300,
+      953
+    ],
+    "confidence": null,
+    "extra": {
+      "screenshot": "C:\\Airtest_alpha2\\logs\\tap_20251030_003858_530944_crop.png"
+    }
+  }
+]
