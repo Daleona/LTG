@@ -124,18 +124,33 @@ def find_template(tpl: Template, screen_path):
 
 
 def exists_raw(device_addr, tpl: Template, viewport=None, timeout=2):
+    """
+    Sucht ein Template im aktuellen Screenshot.
+    Gibt absolute Bildschirmkoordinaten (x, y) zurück, auch wenn gecroppt wurde.
+    """
     start = time.time()
     while time.time() - start < timeout:
         path, vp = raw_screenshot(device_addr, "tmp_screen.png", crop=True, viewport=viewport)
         match = find_template(tpl, path)
         if match:
-            print(f"[OK] {tpl.filename} gefunden @ {match['result']} (conf={match['confidence']:.2f})")
-            return match["result"]
+            x, y = match["result"]
+            conf = match["confidence"]
+            # Offset aus dem Crop-Bereich addieren, damit der Tap stimmt
+            if vp:
+                left, top, _, _ = vp
+                x += left
+                y += top
+            abs_pos = (int(x), int(y))
+            print(f"[OK] {tpl.filename} gefunden @ {abs_pos} (conf={conf:.2f})")
+            return abs_pos
         time.sleep(0.3)
     return None
 
 
 def all_matches_raw(device_addr, tpl: Template, viewport=None):
+    """
+    Liefert alle Treffer des Templates mit globalen Bildschirmkoordinaten.
+    """
     path, vp = raw_screenshot(device_addr, "tmp_screen.png", crop=True, viewport=viewport)
     screen = load_image_bgr(path)
     tpl_img = load_image_bgr(tpl.filename)
@@ -144,7 +159,15 @@ def all_matches_raw(device_addr, tpl: Template, viewport=None):
     res = cv2.matchTemplate(screen, tpl_img, cv2.TM_CCOEFF_NORMED)
     loc = np.where(res >= tpl.threshold)
     h, w = tpl_img.shape[:2]
-    matches = [(int(x + w/2), int(y + h/2)) for (x, y) in zip(loc[1], loc[0])]
+    matches = []
+    for (x, y) in zip(loc[1], loc[0]):
+        cx, cy = int(x + w / 2), int(y + h / 2)
+        if vp:
+            left, top, _, _ = vp
+            cx += left
+            cy += top
+        matches.append((cx, cy))
+    print(f"[INFO] {len(matches)} Treffer für {tpl.filename}")
     return matches
 
 
